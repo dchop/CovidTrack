@@ -26,4 +26,4 @@ const CountryPicker = ({handleCountryChange}) => {
     )
 }
 
-export default CountryPicker
+export default CountryPicker;
